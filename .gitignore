@@ -1,0 +1,9 @@
+.idea/
+result
+result-*
+.local/
+.profiles/*
+
+.direnv/*
+*.qcow2
+OVMF.fd
