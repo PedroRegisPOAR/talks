@@ -273,7 +273,7 @@ Nix is the current technical solution for:
 - Tumblr: [NixOS at Tumblr by Graham Christensen (NixCon 2017)](https://www.youtube.com/watch?v=6VH945-AaRY&t=66s)
 - Shopify: [Shipit! Presents: How Shopify Uses Nix](https://www.youtube.com/watch?v=KaIRpx11qrc)
 - Canva: [Supporting GPU-accelerated Machine Learning with Kubernetes and Nix](https://canvatechblog.com/supporting-gpu-accelerated-machine-learning-with-kubernetes-and-nix-7c1da8e42f61), By [Jonathon Belotti](https://github.com/thundergolfer) from [Canva Engineering](https://medium.com/@canvatechblog?source=post_page-----7c1da8e42f61--------------------------------)
-- Supabase: [Packaging Supabase with Nix](https://supabase.com/blog/nix-postgres), https://github.com/supabase/nix-postgres, ´[Supabase in this year's Stack Overflow survey amongst the world's most popular Databases](https://www.linkedin.com/posts/supabase_supabase-just-appeared-in-this-years-stack-activity-7222265951780577280-FzYN)
+- Supabase: [Packaging Supabase with Nix](https://www.linkedin.com/posts/supabase_packaging-supabase-with-nix-httpslnkdin-activity-7246606023845638146-Oeyx) [Packaging Supabase with Nix](https://supabase.com/blog/nix-postgres), https://github.com/supabase/nix-postgres, ´[Supabase in this year's Stack Overflow survey amongst the world's most popular Databases](https://www.linkedin.com/posts/supabase_supabase-just-appeared-in-this-years-stack-activity-7222265951780577280-FzYN)
 - Obsidian Systems: [Nix Ecosystem and Infra](https://github.com/obsidiansystems/.github/blob/b39bc00072d93115c4ab87e90a226023fa07c810/profile/nix.md#-nix-ecosystem-and-infra)
 - D. E. Shaw: https://flox.dev/blog/nix-pure-genius 
 - ...
